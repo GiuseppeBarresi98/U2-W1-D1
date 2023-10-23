@@ -384,4 +384,12 @@ footer a {
   footer {
     display: none;
   }
+
+  form {
+    display: none;
+  }
+
+  section {
+    display: none;
+  }
 }
